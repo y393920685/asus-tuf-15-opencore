@@ -1,5 +1,5 @@
 # asus-tuf-15-opencore
-OpenCore files for Asus TUF 15
+OpenCore file for Asus TUF 15
 
 # Asus TUF 15 FX506L OpenCore OSX EFI
 
